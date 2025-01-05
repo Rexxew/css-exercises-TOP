@@ -1,0 +1,14 @@
+#blue {
+    color: blue; font-size: 48px; font-weight: bolder;
+}
+
+#green {
+    color: black; font-weight: 800; font-size: 36px; background-color: green;
+}
+
+.red {
+    background-color: red; font-size: 28px; 
+}
+.red-bold {
+    background-color: red; font-size: 36px; font-weight:600;
+}
