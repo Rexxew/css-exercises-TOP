@@ -1,0 +1,18 @@
+#center{
+    text-align: center;
+}
+.black, 
+.yellow {
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    text-align: center;
+    font-size: 28px;
+}
+
+.black {
+    background-color: black; 
+    color: white;
+}
+
+.yellow {
+    background-color: yellow;
+}
